@@ -1,0 +1,1 @@
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes.UnitTests\obj\Debug\CalculatingGeometricShapes.UnitTests.csprojAssemblyReference.cache

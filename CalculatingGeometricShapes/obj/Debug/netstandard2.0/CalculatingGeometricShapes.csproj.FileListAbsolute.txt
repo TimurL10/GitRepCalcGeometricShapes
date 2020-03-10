@@ -1,0 +1,8 @@
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes\bin\Debug\netstandard2.0\CalculatingGeometricShapes.deps.json
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes\bin\Debug\netstandard2.0\CalculatingGeometricShapes.dll
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes\bin\Debug\netstandard2.0\CalculatingGeometricShapes.pdb
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes\obj\Debug\netstandard2.0\CalculatingGeometricShapes.csprojAssemblyReference.cache
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes\obj\Debug\netstandard2.0\CalculatingGeometricShapes.AssemblyInfoInputs.cache
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes\obj\Debug\netstandard2.0\CalculatingGeometricShapes.AssemblyInfo.cs
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes\obj\Debug\netstandard2.0\CalculatingGeometricShapes.dll
+C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes\obj\Debug\netstandard2.0\CalculatingGeometricShapes.pdb
