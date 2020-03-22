@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Timur\\Documents\\Visual Studio 2019\\CalculatingGeometricShapes\\CalculatingGeometricShapes.csproj": {}
+    "C:\\Users\\Timur\\Source\\Repos\\GitRepCalcGeometricShapes\\CalculatingGeometricShapes\\CalculatingGeometricShapes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Timur\\Documents\\Visual Studio 2019\\CalculatingGeometricShapes\\CalculatingGeometricShapes.csproj": {
+    "C:\\Users\\Timur\\Source\\Repos\\GitRepCalcGeometricShapes\\CalculatingGeometricShapes\\CalculatingGeometricShapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timur\\Documents\\Visual Studio 2019\\CalculatingGeometricShapes\\CalculatingGeometricShapes.csproj",
+        "projectUniqueName": "C:\\Users\\Timur\\Source\\Repos\\GitRepCalcGeometricShapes\\CalculatingGeometricShapes\\CalculatingGeometricShapes.csproj",
         "projectName": "CalculatingGeometricShapes",
-        "projectPath": "C:\\Users\\Timur\\Documents\\Visual Studio 2019\\CalculatingGeometricShapes\\CalculatingGeometricShapes.csproj",
+        "projectPath": "C:\\Users\\Timur\\Source\\Repos\\GitRepCalcGeometricShapes\\CalculatingGeometricShapes\\CalculatingGeometricShapes.csproj",
         "packagesPath": "C:\\Users\\Timur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timur\\Documents\\Visual Studio 2019\\CalculatingGeometricShapes\\obj\\",
+        "outputPath": "C:\\Users\\Timur\\Source\\Repos\\GitRepCalcGeometricShapes\\CalculatingGeometricShapes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timur\\AppData\\Roaming\\NuGet\\NuGet.Config",

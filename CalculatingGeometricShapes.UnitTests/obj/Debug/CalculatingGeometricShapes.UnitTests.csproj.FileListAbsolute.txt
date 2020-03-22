@@ -1,1 +1,16 @@
 C:\Users\Timur\Documents\Visual Studio 2019\CalculatingGeometricShapes.UnitTests\obj\Debug\CalculatingGeometricShapes.UnitTests.csprojAssemblyReference.cache
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\obj\Debug\CalculatingGeometricShapes.UnitTests.csprojAssemblyReference.cache
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\CalculatingGeometricShapes.UnitTests.dll
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\CalculatingGeometricShapes.UnitTests.pdb
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\CalculatingGeometricShapes.dll
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\CalculatingGeometricShapes.pdb
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\obj\Debug\CalculatingGeometricShapes.UnitTests.csproj.CopyComplete
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\obj\Debug\CalculatingGeometricShapes.UnitTests.dll
+C:\Users\Timur\Source\Repos\GitRepCalcGeometricShapes\CalculatingGeometricShapes.UnitTests\obj\Debug\CalculatingGeometricShapes.UnitTests.pdb

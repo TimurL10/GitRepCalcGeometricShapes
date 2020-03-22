@@ -1,86 +1,55 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using CalculatingGeometricShapes;
+using ShiftShapes;
 
 namespace CalculatingGeometricShapes.UnitTests
 {
     [TestClass]
     public class UnitTest1
     {
-                
         [TestMethod]
-        public void ReturnCircleSquere()
+        public void ReturnCircleSquereClass()
         {
             //Arrange
-            var shapes = new Shapes();
+            var circle = new Circle();
+            circle.Parameters = new double[] { 4 };
 
-            //Act
-            var result = shapes.Circle(4);
+            //Act            
+            var result = circle.SquereCalc(circle.Parameters);
 
             //Assert
-
             Assert.AreEqual(16 * Math.PI, result);
+
         }
         [TestMethod]
-        public void ReturnTriangleSquare()
+        public void ReturnTriangleSquereClass()
         {
             //Arrange
-            var shapes = new Shapes();
+            var triangle = new Triangle();
+            triangle.Parameters = new double[] { 14, 19, 18 };
 
             //Act
-            var result = shapes.Triangle(14, 19, 18);
+            var result = triangle.SquereCalc(triangle.Parameters);
 
             //Assert
             Assert.AreEqual(119.566, result);
+
         }
         [TestMethod]
-        public void CheckIfTriangleRightFalse()
+        public void CheckIfTriangleRightTrueClass()
         {
             //Arrange
-            var shapes = new Shapes();
+            var triangle = new Triangle();
+            triangle.Parameters = new double[] { 5, 13, 12 };
 
             //Act
-            var result = shapes.TriangleCheck(5, 11, 8);
+            var result = triangle.TriangleCheck(triangle.Parameters);
 
             //Assert
-            Assert.IsFalse(false);
-        }
-        [TestMethod]
-        public void CheckIfTriangleRightTrue()
-        {
-            //Arrange
-            var shapes = new Shapes();
-
-            //Act
-            var result = shapes.TriangleCheck(5, 13, 12); //3, 4, 5; 6, 8, 10; 12, 16, 20; 5, 12, 13.
-
-            //Assert
-            Assert.IsTrue(true);
-        }
-
-        [TestMethod]
-        public void CheckAutoShapesDetectIfItCircle()
-        {
-            //Arrange
-            var shapes = new Shapes();
-
-            //Act
-            var result = shapes.AutoShapesDetect(2);
-
-            //Assert
-            Assert.AreEqual(4 * Math.PI, result);
-        }
-        [TestMethod]
-        public void CheckAutoShapesDetectIfItTriangle()
-        {
-            //Arrange
-            var shapes = new Shapes();
-
-            //Act
-            var result = shapes.AutoShapesDetect(4, 9, 8);
-
-            //Assert
-            Assert.AreEqual(15.998, result);
-        }
+            Assert.IsTrue(result);
+        }     
+        
     }
 }
     
